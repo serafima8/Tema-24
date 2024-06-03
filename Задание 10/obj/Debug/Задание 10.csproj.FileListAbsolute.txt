@@ -1,0 +1,7 @@
+D:\215 группа\Задание 10\bin\Debug\Задание 10.exe.config
+D:\215 группа\Задание 10\bin\Debug\Задание 10.exe
+D:\215 группа\Задание 10\bin\Debug\Задание 10.pdb
+D:\215 группа\Задание 10\obj\Debug\Задание 10.csproj.AssemblyReference.cache
+D:\215 группа\Задание 10\obj\Debug\Задание 10.csproj.CoreCompileInputs.cache
+D:\215 группа\Задание 10\obj\Debug\Задание 10.exe
+D:\215 группа\Задание 10\obj\Debug\Задание 10.pdb
